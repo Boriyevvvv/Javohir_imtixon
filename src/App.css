@@ -1,0 +1,333 @@
+* {
+  scrollbar-width: none;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+  border: 1px solid black;
+  list-style: none;
+  display: flex;
+  gap: 800px;
+  align-items: center;
+}
+
+li {
+  position: relative;
+  left: 100px;
+  top: 0px;
+  font-size: 20px;
+  font-weight: 700px;
+}
+
+.Xisobot {
+  position: relative;
+  left: 400px;
+  top: 0px;
+  font-size: 35px;
+  font-weight: 900px;
+}
+
+main {
+  width: 300px;
+  height: 1900px;
+  position: relative;
+  top: -50px;
+  left: 0px;
+  background-color: #2F49D1;
+  ;
+}
+
+
+
+.laguage {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  left: -3200px;
+  top: 20px;
+}
+
+.button {
+  width: 300px;
+  height: 40px;
+  position: relative;
+  top: 10px;
+  border-radius: 100px;
+}
+
+.text {
+  background-color: transparent;
+  color: transparent;
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  position: relative;
+  /* top: 100px; */
+}
+
+.row {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  position: relative;
+  top: 100px;
+}
+
+.btnm {
+  width: 100px;
+  height: 40px;
+  background-color: red;
+  position: relative;
+  /* left: 900px; */
+}
+.uz{
+  width: 100px;
+  height: 30px;
+  position: relative;
+  top: 10px;
+  border-radius: 200px;
+}
+
+.card1 {
+  width: 480px;
+  height: 300px;
+  position: relative;
+  left: -850px;
+  top: -200px;
+  border: 1px solid black;
+  border-radius: 30px;
+  text-align: left;
+  padding: 10px 5px;
+}
+
+.card2 {
+  width: 480px;
+  height: 300px;
+  position: relative;
+  left: -800px;
+  top: -200px;
+  border: 1px solid black;
+  border-radius: 30px;
+  text-align: left;
+  padding: 10px 5px;
+}
+
+.card3 {
+  width: 480px;
+  height: 300px;
+  position: relative;
+  left: -1810px;
+  top: 150px;
+  border: 1px solid black;
+  border-radius: 30px;
+  text-align: left;
+  padding: 10px 5px;
+}
+
+.card4 {
+  width: 480px;
+  height: 300px;
+  position: relative;
+  left: -1750px;
+  top: 150px;
+  border: 1px solid black;
+  border-radius: 30px;
+  text-align: left;
+  padding: 10px 5px;
+}
+
+
+.card {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  top: 340px;
+  left: -300px;
+  display: flex;
+
+}
+
+.number {
+  position: relative;
+  top: 40px;
+  left: 30px;
+}
+
+.tex {
+  position: relative;
+  left: 30px;
+  top: 10px;
+}
+
+.icons {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 230px;
+  top: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.ter {
+  width: 30px;
+  height: 20px;
+  position: relative;
+  left: 130px;
+  top: -30px;
+  color: white;
+}
+
+.icons1 {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  top: -50px;
+  left: 30px;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 100px;
+  background-color: #315996;
+  ;
+}
+
+.hr {
+  width: 280px;
+  position: relative;
+  top: -20px;
+  left: 8px;
+}
+
+.lorem {
+  padding: 10px 20px;
+  color: white;
+  position: relative;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.p1 {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  padding: 10px 15px;
+  top: 10px;
+  transition: .5s;
+}
+
+.p1:hover {
+  width: 100%;
+  height: 40px;
+    background-color: gray;
+  padding: 10px 15px;
+  position: relative;
+  top: 10px;
+  transition: .5s;
+  color: black;
+  cursor: pointer;
+}
+
+.p2 {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  padding: 10px 15px;
+  top: 20px;
+  transition: .5s;
+}
+
+.p2:hover {
+  width: 100%;
+  height: 40px;
+    background-color: gray;
+  padding: 10px 15px;
+  position: relative;
+  transition: .5s;
+  color: black;
+  cursor: pointer;
+}
+
+.p3 {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  padding: 10px 15px;
+  top: 30px;
+  transition: .5s;
+}
+
+.p3:hover {
+  width: 100%;
+  height: 40px;
+    background-color:gray;
+  padding: 10px 15px;
+  position: relative;
+  transition: .5s;
+  color: black;
+  cursor: pointer;
+}
+
+.p4 {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  top: 40px;
+  padding: 10px 15px;
+  transition: .5s;
+}
+
+.p4:hover {
+  width: 100%;
+  height: 40px;
+      background-color: gray;
+  padding: 10px 15px;
+  position: relative;
+  transition: .5s;
+  color: black;
+  cursor: pointer;
+}
+
+.p5 {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  padding: 10px 15px;
+  top: 50px;
+  transition: .5s;
+}
+
+.p5:hover {
+  width: 100%;
+  height: 40px;
+  padding: 10px 15px;
+    background-color:gray;
+  position: relative;
+  transition: .5s;
+  color: black;
+  cursor: pointer;
+}
+
+.p6 {
+  width: 100%;
+  height: 40px;
+  position: relative;
+  padding: 10px 15px;
+  top: 60px;
+  transition: .5s;
+}
+
+.p6:hover {
+  width: 250px;
+  height: 40px;
+  background-color: gray;
+  padding: 10px 15px;
+  position: relative;
+  transition: .5s;
+  color: black;
+  cursor: pointer;
+}
